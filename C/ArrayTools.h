@@ -15,13 +15,12 @@ extern const int test1resultLength;
 
 #endif
 
-int ** allocateArray(int width, int height);
+int **allocateArray(int width, int height);
 
-void freeArray(int ** arr,int width, int height);
+void freeArray(int **arr, int width, int height);
 
-int ** getTestArray();
+int **getTestArray();
 
+void printArray(int **arr, int width, int height);
 
-void printArray(int ** arr,int width, int height);
-
-void printResult(int ** result);
+void printResult(int **result);
