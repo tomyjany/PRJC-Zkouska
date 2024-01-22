@@ -6,12 +6,14 @@
 const int test1width = 4;
 const int test1height = 5;
 const int test1Array[4][5] = {
-    {10, 8, 13, 11, 20},
-    {11, 9, 7, 8, 15},
+    {10, 8,13,11,20},
+    {11, 9, 7, 8,15},
     {16, 8, 4, 9, 7},
-    {6, 7, 9, 5, 1}};
+    { 6, 7, 9, 5, 1}
+};
 const int test1result[10] = {
-    10, 8, 9, 7, 4, 8, 7, 6, 16, 11};
+    10, 8, 9, 7, 4, 8, 7, 6, 16, 11
+};
 const int test1resultLength = 10;
 
 int **allocateArray(int width, int height)
