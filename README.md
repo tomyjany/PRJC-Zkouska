@@ -1,4 +1,4 @@
-# PRJC-Zkouska
+# PRJC-Zkouška
 Termín 10.1.2023
 Jelikož mi přišlo, že není dostatek materiálů a zkouškovejch testů, rozhodl jsem se implementovat jedno konkrétní zadání (Zkouška byla splňena za 1)
 # Popis Kodu - Co vám úplně stačí
@@ -10,7 +10,7 @@ Ostatní věci jako alokace polí, psaní konkrétních polí pro test a podobn�
 ## C++
 Zde vám stačí hlavička (bank.hpp) + ta jedna potřebná naimplementovaná metoda. Možná je dobré se i podívat na implementaci metod transfer a notify.
 
-# Zadani
+# Zadání
 ## C
 1. Průchod pole realizujte tak, že začnete na prvku s indexy 0,0 a posunete se na prvek ve svém přímém okolí, který má ze všech prvků v okolí nejmenší hodnotu a přitom jsme na něm ještě nebyli. Takto pokračujte, dokud je možné se pohybovat, tedy dokud existuje prvek v okolí aktuálního, který jsme nenavštívili.
 
