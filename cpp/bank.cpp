@@ -16,7 +16,7 @@ void Account::notify(string text){
 //metody pro transfer
 void Card::transfer(Account * acc, int amount){
     acc->setBal(amount-100);
-    string msg = string("Transfering via Card ") + string(to_string(amount)) + " to " + acc->getAccountNumber();
+    string msg = string("Transfering via Card ") + string(to_string(amount));
     acc->notify(msg);
 
  
@@ -66,6 +66,6 @@ string Account::getAccountNumber(){
 
 void GooglePay::transfer(Account * acc, int amount){
     acc->setBal(amount-200);
-    string msg = string("Transfering via GoogglePay ") + string(to_string(amount)) + " to " + acc->getAccountNumber();
+    string msg = string("Transfering via GoogglePay ") + string(to_string(amount));
     acc->notify(msg);
 };
