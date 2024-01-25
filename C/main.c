@@ -23,6 +23,7 @@ int main()
     printf("Navratova hodnota testu je %d \n", error);
     
     free(&result[0][0]); //uvolneni pameti zaznamenavajici velikost pole
-    freeArray(arr, width, height);
+    free(result);  //uvolneni celeho vyslekoveho pole
+    freeArray(arr, width, height); // uvolneni pole alokovaneho pro test
     return 0;
 }
