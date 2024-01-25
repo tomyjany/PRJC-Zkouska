@@ -1,5 +1,5 @@
 # PRJC-Zkouška
-Termín 10.1.2023
+Termín 10.1.2024
 
 Jelikož mi přišlo, že není dostatek materiálů a zkouškovejch testů, rozhodl jsem se implementovat jedno konkrétní zadání (Zkouška byla splňena za 1)
 # Popis Kodu - Co vám úplně stačí
