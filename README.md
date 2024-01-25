@@ -5,10 +5,10 @@ Jelikož mi přišlo, že není dostatek materiálů a zkouškovejch testů, roz
 Můžete si všimnout, že kód je implementován úplně, za účelem toho, aby šel spustit. Nutno podotknout, že je zkouška na papír a nechce se po vás, abyste psali všechno.
 
 ## C
-Na splnění zkoušky z C vám stačí jen Soubor **Passage.c**,  zde je hlavni logika. Do testu jsem napsal skoro to samé a zkouška byla za 1.
+Na splnění zkoušky z C vám stačí jen Soubor **Passage.c**,  zde je hlavni logika. Do testu jsem napsal skoro to samé (až na nějaké menší chyby, které byly naštěstí přehlédnuty).
 Ostatní věci jako alokace polí, psaní konkrétních polí pro test a podobně do zkoušky vůbec nepište.
 ## C++
-Zde vám stačí hlavička (bank.hpp) + ta jedna potřebná naimplementovaná metoda. Možná je dobré se i podívat na implenetaci metod transfer a notify.
+Zde vám stačí hlavička (bank.hpp) + ta jedna potřebná naimplementovaná metoda. Možná je dobré se i podívat na implementaci metod transfer a notify.
 
 # Zadani
 ## C
