@@ -1,5 +1,6 @@
 # PRJC-Zkouška
 Termín 10.1.2023
+
 Jelikož mi přišlo, že není dostatek materiálů a zkouškovejch testů, rozhodl jsem se implementovat jedno konkrétní zadání (Zkouška byla splňena za 1)
 # Popis Kodu - Co vám úplně stačí
 Můžete si všimnout, že kód je implementován úplně, za účelem toho, aby šel spustit. Nutno podotknout, že je zkouška na papír a nechce se po vás, abyste psali všechno.
